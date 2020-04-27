@@ -22,5 +22,6 @@ google 解决手动问题：
 源码中的 com.google.auto.service.processor.AutoServiceProcessor.generateConfigFiles 实现了相关文件生成 
 
 ## javapoet
-javapoet是square开源的一个java生成库，官网解释为：
+javapoet是square开源的一个java生成库，官网:
+https://github.com/square/javapoet
 
